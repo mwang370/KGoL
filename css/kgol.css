@@ -1,0 +1,50 @@
+html {
+    font-family: 'Inconsolata', monospace;
+}
+
+p {
+    font-size: 40px;
+}
+
+.widgetp {
+    font-size: 20px;
+    width: 100px;
+}
+
+input {
+    width: 200px;
+}
+
+#display {
+    margin:auto;
+    width:400px;
+}
+
+#settings {
+    margin:auto;
+    width:400px;
+}
+
+.widgets {
+    display: inline-block;
+}
+
+.title {
+    text-align: center;
+}
+
+.controls {
+    width: 400px;
+    left: 50%;
+    margin-left: -200px;
+    margin-bottom: 30px;
+    text-align: center;
+    position:fixed;
+    bottom:0;
+}
+
+button {
+    margin:auto;
+    font-family: 'Inconsolata', monospace;
+    font-size: 20px;
+}
